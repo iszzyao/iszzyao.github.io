@@ -1,19 +1,14 @@
 /* Default css file for jemdoc. */
 
-@media screen and (min-width: 900px) {
-  article {
-    padding: 1rem 3rem;
-  }
+:root {
+  font-size: 13.3333333vw; 
 }
 
-/* Nested within another conditional at-rule */
-@supports (display: flex) {
-  @media screen and (min-width: 900px) {
-    article {
-      display: flex;
-    }
-  }
-}
+@media (min-width: 600px) {        
+  :root {                          
+    font-size: 80px;            
+  }                                
+} 
 
 table#tlayout {
     border: none;
