@@ -19,10 +19,10 @@ I am now seeking a Ph.D. position in multiagent systems theory for Fall 2023.
 
 == Publications
 
-- Zhaozhan Yao, Yong Xu, Chang Liu, Renquan Lu, and Bijoy K. Ghosh, First-order predefined-time consensus under digraphs, /Automatica/, to be submitted.
+- First-order predefined-time consensus under digraphs, /Automatica/, to be submitted, 2022. \n Zhaozhan Yao, [https://ieeexplore.ieee.org/author/37536009300 Yong Xu], Chang Liu, [https://ieeexplore.ieee.org/author/37537066300 Renquan Lu], and [https://ieeexplore.ieee.org/author/37280920000 Bijoy K. Ghosh].
 
-- Zhaozhan Yao, Yong Xu, Zijing Xiao, Hui Peng, and Peng Shi, Finite-time multiconsensus with disturbance rejection in signed digraphs, /IEEE Transactions on Automatic Control/, under review.
+- Finite-time multiconsensus with disturbance rejection in signed digraphs, /IEEE Trans. Autom. Control/, under review, 2022. \n Zhaozhan Yao, [https://ieeexplore.ieee.org/author/37536009300 Yong Xu], Zijing Xiao, Hui Peng, and [https://ieeexplore.ieee.org/author/37287152000 Peng Shi].
 
-- Yong Xu, Zhaozhan Yao, Renquan Lu, and Bijoy K. Ghosh, [papers/fixed-time.pdf A novel fixed-time protocol for first-order consensus tracking with disturbance rejection], /IEEE Transactions on Automatic Control/, doi:[https://ieeexplore.ieee.org/document/9629339 10.1109/TAC.2021.3131549].
+- [https://ieeexplore.ieee.org/document/9629339 A novel fixed-time protocol for first-order consensus tracking with disturbance rejection], /IEEE Trans. Autom. Control/, available online, 2021. \n [https://ieeexplore.ieee.org/author/37536009300 Yong Xu], Zhaozhan Yao, [https://ieeexplore.ieee.org/author/37537066300 Renquan Lu], and [https://ieeexplore.ieee.org/author/37280920000 Bijoy K. Ghosh]. \n \[[papers/fixed-time.pdf PDF]\]
 
-- Zhaozhan Yao, Ye Kuang, Chang Liu, Yuru Guo, and Hongxia Rao, [papers/finite-time.pdf  A discontinuous finite-time consensus tracking algorithm for single integrator multi-agent system with external disturbance], /Proceedings of the 40th Chinese Control Conference/, 657-661, 2021.
+- [https://ieeexplore.ieee.org/document/9550633 A discontinuous finite-time consensus tracking algorithm for single integrator multi-agent system with external disturbance], /Proc. Chin. Control Conf./, 657-661, 2021. \n Zhaozhan Yao, Ye Kuang, Chang Liu, Yuru Guo, and Hongxia Rao. \n \[[papers/finite-time.pdf PDF]\]
