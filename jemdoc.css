@@ -1,17 +1,5 @@
 /* Default css file for jemdoc. */
 
-@media (max-width: 600px) {
-  .mainner {
-    display: none;
-  }
-}
-
-@media screen and (max-device-width: 400px)
-{  .left {
-     float:none;
-   }
- }
-
 table#tlayout {
     border: none;
     border-collapse: separate;
