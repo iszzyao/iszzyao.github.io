@@ -2,22 +2,20 @@
 
 = Zhaozhan Yao
 ~~~
-{}{img_left}{images/zhaozhan.jpg}{Zhaozhan}{100}\n
-[https://automation.gdut.edu.cn/ School of Automation],\n
-[https://www.gdut.edu.cn/ Guangdong University of Technology]\n
-Guangzhou, Guangdong, China\n
+{}{img_left}{images/zhaozhan.jpg}{Zhaozhan}{150}\n
+Optimization and systems theory\n
+Department of Mathematics\n
+KTH Royal Institute of Technology\n
+100 44 Stockholm\n
+Sweden\n
 Email: [iszzyao@163.com]\n
-\[[https://scholar.google.com/citations?user=Y4KbMhQAAAAJ&hl=zh-CN&oi=ao Google Scholar profile]\] \[[Curriculum Vitae.pdf Curriculum Vitae]\] \[[Transcript.pdf Transcript]\]\n
+\[[https://scholar.google.com/citations?user=Y4KbMhQAAAAJ&hl=zh-CN&oi=ao Google Scholar profile]\] \[[CV.pdf Curriculum Vitae]\] \[[Transcript.pdf Transcript]\]\n
 ~~~
 
 == About me
-I am currently pursuing my M.Sc. degree in control science and engineering with the School of Automation at Guangdong University of Technology and supervised by Prof. [https://ieeexplore.ieee.org/author/37536009300 Yong Xu]. My previous research focuses on finite-, fixed-, and predefined-time consensus for multiagent systems via discontinuous control, with potential applications in formation control as well as attitude synchronization. I serve as a reviewer for /Automatica/ and /Neurocomputing/. 
-
-I am now seeking a Ph.D. position for Fall 2023!
+I am currently a PhD student with Department of Mathematics, KTH Royal Institute of Technology. I serve as reviewer for /Automatica/ and /Neurocomputing/.
 
 == Publications
 \* Corresponding author
-. First-order predefined-time consensus under digraphs. \n Zhaozhan Yao, [https://ieeexplore.ieee.org/author/37536009300 Yong Xu]\*, Chang Liu, [https://ieeexplore.ieee.org/author/37537066300 Renquan Lu], and [https://ieeexplore.ieee.org/author/37280920000 Bijoy K. Ghosh]. \n /Automatica/, under review, 2022.
-. Finite-time multiconsensus with disturbance rejection in signed digraphs. \n Zhaozhan Yao, [https://ieeexplore.ieee.org/author/37536009300 Yong Xu]\*, Zijing Xiao, Hui Peng, and [https://ieeexplore.ieee.org/author/37287152000 Peng Shi]. \n /IEEE Trans. Autom. Control/, under review, 2022.
-. [https://ieeexplore.ieee.org/document/9629339 A novel fixed-time protocol for first-order consensus tracking with disturbance rejection]. \n [https://ieeexplore.ieee.org/author/37536009300 Yong Xu], Zhaozhan Yao, [https://ieeexplore.ieee.org/author/37537066300 Renquan Lu]\*, and [https://ieeexplore.ieee.org/author/37280920000 Bijoy K. Ghosh]. \n /IEEE Trans. Autom. Control/, 2021. \n \[[papers/fixed-time.pdf PDF]\]
-. [https://ieeexplore.ieee.org/document/9550633 A discontinuous finite-time consensus tracking algorithm for single integrator multi-agent system with external disturbance]. \n Zhaozhan Yao\*, Ye Kuang, Chang Liu, Yuru Guo, and Hongxia Rao. \n /Proc. Chin. Control Conf./, 657-661, 2021. \n \[[papers/finite-time.pdf PDF]\]
+. [https://ieeexplore.ieee.org/document/9629339 A novel fixed-time protocol for first-order consensus tracking with disturbance rejection]. \n Yong Xu, Zhaozhan Yao, Renquan Lu\*, and Bijoy K. Ghosh. \n /IEEE Trans. Autom. Control/, 67(11): 6180 - 6186, 2022. \n
+. [https://ieeexplore.ieee.org/document/9550633 A discontinuous finite-time consensus tracking algorithm for single integrator multi-agent system with external disturbance]. \n Zhaozhan Yao\*, Ye Kuang, Chang Liu, Yuru Guo, and Hongxia Rao. \n /Proc. Chin. Control Conf./, 657-661, 2021.
